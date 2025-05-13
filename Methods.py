@@ -122,7 +122,7 @@ class UrbanRoutesEsMethods:
         return self.driver.find_element(*UrbanRoutesEsLocators.DETALLES_BUTTON).is_displayed()
 
     def displayed_driver_name(self):
-        return self.driver.find_element(*UrbanRoutesEsLocators.DRIVER_NAME).is_located()
+        return self.driver.find_element(*UrbanRoutesEsLocators.DRIVER_NAME).is_displayed()
 
     def wait_driver_name(self):
         WebDriverWait(self.driver, 30).until(
