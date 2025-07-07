@@ -1,7 +1,5 @@
 # Proyecto Urban Routes
 
-Realizado por Martín Aurelio López Garza, como parte del sprint 8:Automatización de pruebas de la aplicación web
-
 Urban routes es una aplicacion que permite solicitar taxis y otros vehiculos de tranposte privado.
 El presente proyecto consiste en una serie de 9 pruebas en las cuales se verifica la capacidad de solicitar 
 un taxi mediante la aplicacion.
